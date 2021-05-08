@@ -17,3 +17,6 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 ## 🔖 Layout
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover)
+
+## 📺 Acesso
+Você pode testar [nesse link](https://dev-finance-rcktseat.vercel.app/)
